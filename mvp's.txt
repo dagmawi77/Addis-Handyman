@@ -1,0 +1,39 @@
+MVP Features:
+
+1. User Registration and Authentication:
+   - Allow users to register with their email or social media accounts.
+   - Implement secure authentication and user profile management.
+
+2. Service Provider Profiles:
+   - Enable service providers to create profiles with details about their skills, expertise, and qualifications.
+   - Display service provider ratings and reviews.
+
+3. Service Listings and Booking:
+   - List available services offered by service providers.
+   - Allow users to select services, view service provider availability, and book appointments.
+   - Provide a calendar-based booking system with time slots.
+
+4. Transparent Pricing and Payment:
+   - Display clear pricing for each service.
+   - Integrate secure payment options, including credit/debit cards and local payment methods.
+
+5. User Reviews and Ratings:
+   - Allow users to rate and review service providers based on their experiences.
+   - Display service provider ratings and reviews on their profiles.
+
+6. User Dashboard:
+   - Provide users with a personalized dashboard to manage their bookings, history, and favorite service providers.
+
+7. Service Provider Dashboard:
+   - Provide service providers with a dashboard to manage their availability, appointments, and earnings.
+
+8. User-Friendly UI/UX:
+   - Design an intuitive and responsive user interface for seamless navigation.
+
+MVP Justifications:
+
+The MVP features are designed to provide a functional and user-friendly platform that fulfills the core purpose of connecting users with reliable service providers for home maintenance and repair services. The features selected prioritize key aspects of the user journey, including user registration, service discovery, booking, payment, and feedback. By implementing these features, the MVP aims to create a basic yet effective platform that addresses the primary pain points of users and service providers.
+
+Project Completion Assessment:
+
+Based on the current progress and the MVP features outlined, the project is well on track to be completed within the specified timeframe. The MVP represents the core functionalities required to deliver value to users and service providers in Addis Ababa. Additional features and enhancements can be considered for future iterations of the platform, building upon the foundation laid by the MVP.
