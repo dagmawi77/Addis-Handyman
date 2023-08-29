@@ -31,7 +31,7 @@ Adiss-Handyman is a project that addresses the growing demand for home services 
 
 To get started with the Adiss-Handyman project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/adiss-handyman.git`
+1. Clone the repository: `git clone https://github.com/dagmawi77/adiss-handyman.git`
 2. Navigate to the project directory: `cd adiss-handyman`
 3. Install dependencies: `npm install`
 
